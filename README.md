@@ -66,7 +66,7 @@ Thank you for taking the time to read my Read Me. I'm excited about the possibil
 
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ShreeyaDesai&show_icons=true)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreeyaDesai&show_icons=true&theme=radical)](https://github.com/ShreeyaDesai)
 
 ## 2. Most Used Languages
 
@@ -79,6 +79,3 @@ Thank you for taking the time to read my Read Me. I'm excited about the possibil
 ## 5. Profile View Counter
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ShreeyaDesai)
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreeyaDesai&show_icons=true&theme=radical)](https://github.com/ShreeyaDesai)
-
