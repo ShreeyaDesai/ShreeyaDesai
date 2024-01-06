@@ -1,5 +1,3 @@
-# Shreeya Desai
-
 ## About Me
 👋 Hi there! I'm Shreeya Desai, a passionate data enthusiast currently pursuing my Master's in Information Systems with a specialization in data science at Pace University. My data journey extends beyond textbooks, with over 6 years of hands-on experience in healthcare IT. As an Analyst Intern at Pace University, I'm honing my skills and exploring new horizons in the ever-evolving field of data science.
 
