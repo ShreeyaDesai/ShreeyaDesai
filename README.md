@@ -80,6 +80,5 @@ Thank you for taking the time to read my Read Me. I'm excited about the possibil
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ShreeyaDesai)
 
-### Repository View Counter - HITS
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreeyaDesai&show_icons=true&theme=radical)](https://github.com/ShreeyaDesai)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/ShreeyaDesai/Python)
