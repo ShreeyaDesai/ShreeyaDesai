@@ -6,7 +6,7 @@
 👯 I'm actively seeking opportunities to collaborate on data-driven projects that align with my expertise and passion. If you have exciting projects or roles related to data science, analysis, or visualization, I'm eager to connect and contribute my skills to make some data magic together!
 
 ## Professional Background
-💼 With a robust background as a Senior Systems Analyst at eClinicalWorks, I've navigated the intricacies of healthcare data, wielding SQL, Python, R, Power BI, and Tableau to orchestrate data magic. I've excelled in database administration, data integration, and crafting actionable insights from complex datasets. My leadership role involved harmonizing data sets to drive strategic decision-making and deliver substantial results for my team and the company.
+💼 With a robust background as a Senior Business Data Analyst at eClinicalWorks, I've navigated the intricacies of healthcare data, wielding SQL, Python, R, Power BI, and Tableau to orchestrate data magic. I've excelled in database administration, data integration, and crafting actionable insights from complex datasets. My leadership role involved harmonizing data sets to drive strategic decision-making and deliver substantial results for my team and the company.
 
 ## Gearing Up for Impact
 🚀 I specialize in crafting data symphonies for a 10x impact, combining technical expertise with a passion for making a real difference. Data, to me, is not just code; it's about solving real-world challenges and driving positive outcomes. I'm always on the lookout for new challenges to conquer and projects that align with my vision of impactful data solutions.
