@@ -1,4 +1,4 @@
-<h6 align="left">👋 Hi there! I'm Shreeya Desai, a passionate data enthusiast and I recently completed Master's in Information Systems with a specialization in data science at Pace University. My data journey extends beyond textbooks, with over 7 years of hands-on experience Data and Business analysis, I'm honing my skills and exploring new horizons in the ever-evolving field of data science.</h6>
+<h4 align="left">👋 Hi there! I'm Shreeya Desai, a passionate data enthusiast and I recently completed Master's in Information Systems with a specialization in data science at Pace University. My data journey extends beyond textbooks, with over 7 years of hands-on experience Data and Business analysis, I'm honing my skills and exploring new horizons in the ever-evolving field of data science.</h4>
 
 ###
 
